@@ -13,3 +13,6 @@ Other        1 hr 29 mins    -------------------------   01.16 %
 ```
 
 <!--END_SECTION:waka-->
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=bsm311)](https://solved.ac/bsm311)
