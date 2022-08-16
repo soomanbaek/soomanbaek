@@ -1,3 +1,10 @@
+## soomanbaek
+
+### [Portfolio](https://bsm311.notion.site/Baek-Sooman-980c5d3025b3427e912416ea797a6385)
+
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=bsm311)](https://solved.ac/bsm311)
+
 
 <!--START_SECTION:waka-->
 
@@ -14,5 +21,3 @@ Other        1 hr 29 mins    -------------------------   01.16 %
 
 <!--END_SECTION:waka-->
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=bsm311)](https://solved.ac/bsm311)
