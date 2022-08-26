@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FA9FF0&height=300&section=header&text=Hi~%20I'm%20SoomanBaek&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=90B494&height=300&section=header&text=Hi~%20I'm%20SoomanBaek&fontSize=60&fontColor=6AA7DF)
 
 - I'm attending in Kwangwoon University.
 
