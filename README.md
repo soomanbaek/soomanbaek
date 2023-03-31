@@ -2,7 +2,10 @@
 
 - I graduated from Kwangwoon University.
 
-<a href="https://bsm311.notion.site/Baek-Sooman-980c5d3025b3427e912416ea797a6385" target="_blank"><img src="https://img.shields.io/badge/portpolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>       <a href="https://www.linkedin.com/in/%EC%88%98%EB%A7%8C-%EB%B0%B1-631b62231" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>        
+
+<a href="https://bsm311.notion.site/Baek-Sooman-1fa94050e6dd4feda3ab4692af0e78ca" target="_blank"><img src="https://img.shields.io/badge/resume-000000?style=flat-square&logo=notion&logoColor=white"/>
+<a href="https://bsm311.notion.site/923f1aaf7caa49f984f8eece5ea99ac9" target="_blank"><img src="https://img.shields.io/badge/portpolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EC%88%98%EB%A7%8C-%EB%B0%B1-631b62231" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>        
      
 🚀**Tech Stack**🚀
 
