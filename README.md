@@ -3,7 +3,7 @@
 - I graduated from Kwangwoon University.
 
 
-<a href="https://drive.google.com/file/d/1VRCirFILqeL8e1C0x-dDHg6fTkrn6W-d/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/resume-018EF5?style=flat-square&logo=ReadMe&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1VMWQHGFD4Dzv1ZPKfelUXt0PbqsKT2x2/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/resume-018EF5?style=flat-square&logo=ReadMe&logoColor=white"/>
 <a href="https://bsm311.notion.site/923f1aaf7caa49f984f8eece5ea99ac9" target="_blank"><img src="https://img.shields.io/badge/portpolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%EC%88%98%EB%A7%8C-%EB%B0%B1-631b62231" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>        
      
