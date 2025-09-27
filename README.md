@@ -1,11 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=90B494&height=300&section=header&text=Hi~%20I'm%20SoomanBaek&fontSize=60&fontColor=6AA7DF)
 
-- I graduated from Kwangwoon University.
-
 
 <a href="https://drive.google.com/file/d/15t_mb_7kfQx1r-YnSJagTLah_upZMKtN/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/resume-018EF5?style=flat-square&logo=ReadMe&logoColor=white"/>
 <a href="https://www.notion.so/bsm311/fac8f210abc54babb5c56ff8153418bc?pvs=4" target="_blank"><img src="https://img.shields.io/badge/portpolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/%EC%88%98%EB%A7%8C-%EB%B0%B1-631b62231" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>        
      
 🚀**Tech Stack**🚀
 
